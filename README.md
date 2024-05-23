@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@erytym](https://medium.com/@erytym)
 
-- 💬 Ask me about **Angular, .NET, SQL Server, Clean Architecture, Typescript**
+- 💬 Ask me about **CSS, Angular, .NET, SQL Server, Clean Architecture, Typescript**
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
