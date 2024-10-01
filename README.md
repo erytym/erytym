@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@erytym](https://medium.com/@erytym)
 
-- 💬 Ask me about **C#, ASP .NET Core, .NET Core MVC, Postman, Swagger, Typescript, Angular, CSS, SQL Server, Clean Architecture, Docker, Agile**
+- 💬 Ask me about **C#, ASP .NET Core, .NET Core MVC, Postman, Typescript, Angular, CSS, SQL Server, Clean Architecture, Docker, Agile**
 
 - 📫 How to reach me **protaplpuid@gmail.com**
 
