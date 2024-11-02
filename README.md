@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erytym&label=Profile%20views&color=0e75b6&style=flat" alt="erytym" /> </p>
 
-- 🌱 I’m currently learning **Psychology**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/erytym](https://www.linkedin.com/in/erytym)
 
 - 📝 I regularly write articles on [https://medium.com/@erytym](https://medium.com/@erytym)
